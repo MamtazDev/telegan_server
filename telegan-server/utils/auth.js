@@ -222,7 +222,7 @@ const sendVerificationCodeForReset = async (user, ) => {
               <!-- Email Body -->
               <tr>
                 <td width="570" cellpadding="0" cellspacing="0">
-                  <table align="center" width="570" cellpadding="0" cellspacing="0" role="presentation">
+                  <table align="center" width="571" cellpadding="0" cellspacing="0" role="presentation">
                     <!-- Body content -->
                     <tr>
                       <td class="content-cell">
